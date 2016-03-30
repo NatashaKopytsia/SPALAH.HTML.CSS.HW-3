@@ -13,10 +13,7 @@ body {
 }
 
 .banner {
-	padding-top: 10px;
- 	padding-left: 10px;
- 	padding-bottom: 10px;
- 	padding-right: 10px;
+    padding: 10px 10px 10px 10px;
  	position: relative;
  	width: 980px;
 	z-index: 10000;
@@ -50,40 +47,24 @@ table.text {
     color: #FFFFFF;
     padding: 10px; 
 }
-   table.text td {
+
+table.text td {
     width: 50%; 
     vertical-align: top; 
     padding-left: 60px;
 }
-   td.rightcol { 
+
+td.rightcol { 
     text-align: right;
     padding-right: 30px;
 }
 
-td.leftcol_image1 {
+td.leftcol_image {
     width: 110px;
     width: 90;
     height: 90;
     padding-right: 40px;
     border-bottom: 1px dashed #838B83;
-}
-
-td.leftcol_image2 {
-    width: 110px; 
-    vertical-align: center;
-    width: 90;
-    height: 90;
-    padding-right: 40px;
-    border-bottom: 1px dashed #838B83;
-}
-
-td.leftcol_image3 {
-    width: 110px; 
-    vertical-align: center;
-    width: 90;
-    height: 90;
-    padding-right: 40px;
-    border-bottom: 1px dashed #838B83;  
 }
 
 .passe-partout {
