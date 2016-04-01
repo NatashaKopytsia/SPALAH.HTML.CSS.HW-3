@@ -7,6 +7,10 @@ body {
     margin: 0 auto; 
 }
  
+.rightcol a{
+    text-decoration: none;
+}
+
 .box_1 {
 	position: relative;
 	padding: auto;      
